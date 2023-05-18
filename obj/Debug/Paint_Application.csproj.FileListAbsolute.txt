@@ -1,0 +1,11 @@
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\bin\Debug\Paint_Application.exe.config
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\bin\Debug\Paint_Application.exe
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\bin\Debug\Paint_Application.pdb
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\obj\Debug\Paint_Application.csproj.AssemblyReference.cache
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\obj\Debug\Paint_Application.csproj.SuggestedBindingRedirects.cache
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\obj\Debug\Paint_Application.Form1.resources
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\obj\Debug\Paint_Application.Properties.Resources.resources
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\obj\Debug\Paint_Application.csproj.GenerateResource.cache
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\obj\Debug\Paint_Application.csproj.CoreCompileInputs.cache
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\obj\Debug\Paint_Application.exe
+C:\Documents\Study_Material\SEM-4\durgesh_ADT\Paint_Application\obj\Debug\Paint_Application.pdb
